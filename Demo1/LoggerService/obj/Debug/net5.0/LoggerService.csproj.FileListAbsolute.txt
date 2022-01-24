@@ -1,0 +1,15 @@
+H:\Vodafone\Demo1\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+H:\Vodafone\Demo1\LoggerService\bin\Debug\net5.0\LoggerService.dll
+H:\Vodafone\Demo1\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+H:\Vodafone\Demo1\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+H:\Vodafone\Demo1\LoggerService\bin\Debug\net5.0\Contracts.dll
+H:\Vodafone\Demo1\LoggerService\bin\Debug\net5.0\Contracts.pdb
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.dll
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+H:\Vodafone\Demo1\LoggerService\obj\Debug\net5.0\LoggerService.pdb

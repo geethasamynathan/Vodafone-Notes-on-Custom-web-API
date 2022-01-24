@@ -1,0 +1,16 @@
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\Myconsoleapp.exe
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\Myconsoleapp.deps.json
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\Myconsoleapp.runtimeconfig.json
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\Myconsoleapp.runtimeconfig.dev.json
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\Myconsoleapp.dll
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\ref\Myconsoleapp.dll
+H:\Vodafone\CLI demo\Myconsoleapp\bin\Debug\net5.0\Myconsoleapp.pdb
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.csproj.AssemblyReference.cache
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.AssemblyInfoInputs.cache
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.AssemblyInfo.cs
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.csproj.CoreCompileInputs.cache
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.dll
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\ref\Myconsoleapp.dll
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.pdb
+H:\Vodafone\CLI demo\Myconsoleapp\obj\Debug\net5.0\Myconsoleapp.genruntimeconfig.cache

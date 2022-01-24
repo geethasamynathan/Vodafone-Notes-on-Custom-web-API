@@ -1,0 +1,12 @@
+H:\Vodafone\Demo1\Contracts\bin\Debug\net5.0\Contracts.deps.json
+H:\Vodafone\Demo1\Contracts\bin\Debug\net5.0\Contracts.dll
+H:\Vodafone\Demo1\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+H:\Vodafone\Demo1\Contracts\bin\Debug\net5.0\Contracts.pdb
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.dll
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+H:\Vodafone\Demo1\Contracts\obj\Debug\net5.0\Contracts.pdb

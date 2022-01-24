@@ -1,0 +1,17 @@
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ConsoletoWebAPI.exe
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ConsoletoWebAPI.deps.json
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ConsoletoWebAPI.runtimeconfig.json
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ConsoletoWebAPI.runtimeconfig.dev.json
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ConsoletoWebAPI.dll
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ref\ConsoletoWebAPI.dll
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\bin\Debug\net5.0\ConsoletoWebAPI.pdb
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.csproj.AssemblyReference.cache
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.AssemblyInfoInputs.cache
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.AssemblyInfo.cs
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.csproj.CoreCompileInputs.cache
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.dll
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ref\ConsoletoWebAPI.dll
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.pdb
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.genruntimeconfig.cache
+H:\Vodafone\ConsoletoWebAPI\ConsoletoWebAPI\obj\Debug\net5.0\ConsoletoWebAPI.MvcApplicationPartsAssemblyInfo.cache

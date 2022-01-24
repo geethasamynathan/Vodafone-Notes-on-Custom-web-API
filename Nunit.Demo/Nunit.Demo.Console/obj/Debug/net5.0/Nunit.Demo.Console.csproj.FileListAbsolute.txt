@@ -1,0 +1,16 @@
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\Nunit.Demo.Console.exe
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\Nunit.Demo.Console.deps.json
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\Nunit.Demo.Console.runtimeconfig.json
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\Nunit.Demo.Console.runtimeconfig.dev.json
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\Nunit.Demo.Console.dll
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\ref\Nunit.Demo.Console.dll
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\bin\Debug\net5.0\Nunit.Demo.Console.pdb
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.csproj.AssemblyReference.cache
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.GeneratedMSBuildEditorConfig.editorconfig
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.AssemblyInfoInputs.cache
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.AssemblyInfo.cs
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.csproj.CoreCompileInputs.cache
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.dll
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\ref\Nunit.Demo.Console.dll
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.pdb
+H:\Vodafone\Nunit.Demo\Nunit.Demo.Console\obj\Debug\net5.0\Nunit.Demo.Console.genruntimeconfig.cache

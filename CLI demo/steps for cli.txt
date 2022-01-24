@@ -1,0 +1,8 @@
+dotnet new => listout all application type
+dotnet new console -n Myconsoleapp
+cd Myconsoleapp 
+code .
+
+dotnet build
+
+dotnet run
