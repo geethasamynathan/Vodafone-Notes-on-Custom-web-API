@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Transient_Scoped_Demo", "Singleton_Transient_Scoped_Demo\Singleton_Transient_Scoped_Demo.csproj", "{3CB03F44-8220-487A-8E99-A6A2A45A6FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB03F44-8220-487A-8E99-A6A2A45A6FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB03F44-8220-487A-8E99-A6A2A45A6FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB03F44-8220-487A-8E99-A6A2A45A6FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB03F44-8220-487A-8E99-A6A2A45A6FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9402BB1A-E362-465C-9B8E-8BA346315399}
+	EndGlobalSection
+EndGlobal

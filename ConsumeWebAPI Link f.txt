@@ -1,0 +1,8 @@
+udemy:
+https://www.udemy.com/course/restful-web-api-with-aspnet-core-5-zero-to-hero/learn/lecture/24242846#overview
+
+
+https://github.com/monishanandhakumar/.Net936
+
+
+https://makolyte.com/sqlexception-cannot-insert-explicit-value-for-identity-column/
